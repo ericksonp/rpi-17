@@ -4,7 +4,7 @@ import time
 import subprocess
 hostname=subprocess.check_output(["hostname"]).strip()
 GMAIL_USER= "bergland.rpi@gmail.com"
-GMAIL_PASS="photoperiod!"
+GMAIL_PASS="ph0t0per10d!"
 SMTP_SERVER="smtp.gmail.com"
 SMTP_PORT=587
 
