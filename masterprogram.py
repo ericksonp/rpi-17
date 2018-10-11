@@ -45,7 +45,7 @@ lastday=0
 
 #define function for sending warning email if tempearture is out of range:
 GMAIL_USER= "bergland.rpi@gmail.com"
-GMAIL_PASS="ph0t0per10d!"
+GMAIL_PASS="d1apause!"
 SMTP_SERVER="smtp.gmail.com"
 SMTP_PORT=587
 
